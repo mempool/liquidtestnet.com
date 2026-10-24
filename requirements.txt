@@ -15,6 +15,6 @@ pystache==0.5.4
 qrcode==6.1
 requests==2.25.1
 six==1.15.0
-urllib3==1.26.5
+urllib3==2.8.0
 wallycore==0.8.4
 Werkzeug==2.0.2
